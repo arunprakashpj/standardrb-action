@@ -4,6 +4,14 @@
 
 [Full Changelog](https://github.com/andrewmcodes/standardrb-action/compare/v0.0.2...HEAD)
 
+**Implemented enhancements:**
+
+- Autocorrection with standardrb --fix [\#7](https://github.com/andrewmcodes/standardrb-action/issues/7)
+
+**Fixed bugs:**
+
+- Support locking the version of standard [\#12](https://github.com/andrewmcodes/standardrb-action/issues/12)
+
 **Merged pull requests:**
 
 - Update incorrect project name in README [\#8](https://github.com/andrewmcodes/standardrb-action/pull/8) ([martinemde](https://github.com/martinemde))
